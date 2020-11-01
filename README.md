@@ -1,1 +1,2 @@
-# WT_PRACTICAL_4
+# WTAS4
+Data fetched from JSON file using PHP
